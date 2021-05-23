@@ -1,2 +1,7 @@
 # GAMJACHIN9
 KNU App Development Project
+
+# 감자친구
+- 학교 캠퍼스 내에서 심부름을 중개해주는 서비스
+- Beta service: 카카오톡 채널 '감자친구' 
+- APP study: Nomadcoder의 Instagram 클론코딩
